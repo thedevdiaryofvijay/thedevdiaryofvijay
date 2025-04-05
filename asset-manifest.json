@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thedevdiaryofvijay/static/css/main.3de7567e.css",
+    "main.js": "/thedevdiaryofvijay/static/js/main.249ce637.js",
+    "static/js/453.1407b060.chunk.js": "/thedevdiaryofvijay/static/js/453.1407b060.chunk.js",
+    "index.html": "/thedevdiaryofvijay/index.html",
+    "main.3de7567e.css.map": "/thedevdiaryofvijay/static/css/main.3de7567e.css.map",
+    "main.249ce637.js.map": "/thedevdiaryofvijay/static/js/main.249ce637.js.map",
+    "453.1407b060.chunk.js.map": "/thedevdiaryofvijay/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de7567e.css",
+    "static/js/main.249ce637.js"
+  ]
+}
